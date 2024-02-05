@@ -66,6 +66,8 @@ body *{
     transform: translateY(-50%);
     transition: left 0.5s ease-out;}
 
+
+
 .light #switch button {
     left: calc(100% - 32px);}
 
