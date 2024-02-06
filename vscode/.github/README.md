@@ -10,10 +10,9 @@ Projeto exclusivo desenvolvido por Cris Costa <br/>
   <a href="#-projeto">Projeto</a>
 </p>
 
-<br>
 
 <p align="center">
-<img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+<img alt="projeto DevLinks" src="./preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
